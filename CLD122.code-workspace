@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Redlonghead.github.io"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CLD122"
+	}
+}
