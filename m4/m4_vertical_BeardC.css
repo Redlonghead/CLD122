@@ -1,0 +1,45 @@
+/*!DOCTYPE css*/
+
+#header {
+    display: flex;
+}
+
+#logo {
+    height: 150px;
+}
+
+#title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#main {
+    display: flex;
+}
+
+#nav {
+    background-color: #58d33f;
+    width: 100px;
+    padding: 10px;
+}
+
+#content {
+    width: 65%;
+}
+
+#sale {
+    background-color: #ce3fce;
+    width: 250px;
+}
+
+#footer {
+    background-color: #adadad;
+    text-align: center;
+    font-style: italic;
+}
+
+a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}

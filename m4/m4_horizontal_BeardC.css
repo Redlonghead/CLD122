@@ -1,0 +1,38 @@
+/*!DOCTYPE css*/
+
+#header {
+    display: flex;
+}
+
+#logo {
+    height: 150px;
+}
+
+#title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#nav {
+    background-color: #1b6088;
+    height: fit-content;
+    align-self: flex-end;
+    display: flex;
+}
+
+#nav div{
+    align-self: flex-end;
+    background-color: #1b6088;
+    color: white;
+    padding: 10px;
+}
+
+#nav div:hover {
+    background-color: #13415c;
+}
+
+span {
+    color: blue;
+    font-weight: bolder;
+}
+
