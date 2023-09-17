@@ -16,6 +16,6 @@ CLD-122 Intro to Web Development   Take Home Mid-Term  Due date is 9/16/2023
   * [X] nav list
 * [X] Page design must be consistent between both pages – 10 points
 * [X] At least 2 working links to external sites – 5 points
-* [ ] At least one image and one embedded video (can be from YouTube) – 10 points
+* [X] At least one image and one embedded video (can be from YouTube) – 10 points
   * [X] image
-  * [ ] video
+  * [X] video
