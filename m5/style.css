@@ -1,0 +1,36 @@
+/* !DOCTYPE css */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.row, .half-row {
+    margin: 20px auto;
+}
+
+.column, .half-column {
+    background-color: purple;
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.half-column {
+    background-color: black;
+}
+
+@media(min-width: 786px) {
+    .row, .half-row {
+        display: flex;
+    }
+            
+    .column {
+        width: 33.33%;
+    }
+
+    .half-column {
+        width: 50%;
+    }
+
+}
